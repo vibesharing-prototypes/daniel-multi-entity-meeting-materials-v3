@@ -1,2 +1,14 @@
-# daniel-multi-entity-meeting-materials-v3
-Prototype: Multi-Entity Meeting Materials V3 - Deployed via VibeSharing
+# Multi-Entity Meeting Materials V3
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
